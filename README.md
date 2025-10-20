@@ -1,2 +1,2 @@
 # NDBE
-If the paper is accepted, the complete code will be uploaded soon.
+run ourhash.py
