@@ -5,7 +5,7 @@ Source Codes for TMM paper “Deep Neighbor Discriminant Binary Embedding for Mu
 ### Start
 
 After the dataset has been prepared, we could run the follow command to train.
-> run ourhash.py
+> run Ourshash.py
 
 ### Dependencies
 We use python to build our code, you need to install those package to run
